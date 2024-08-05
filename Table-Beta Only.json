@@ -1,16 +1,17 @@
 [
     {
-        "Beta Only Portfolio": "Returns",
+        "": "Returns",
         "YTD": "0.06201957823711801",
-        "3 Mos": "0.06525402894859722",
-        "Prior Year": "",
-        "ITD": ""
+        "3 Mos": "0.06525402894859722"
     },
     {
-        "Beta Only Portfolio": "Volatility",
+        "": "Volatility",
         "YTD": "0.11449742776027555",
-        "3 Mos": "0.08363750382680649",
-        "Prior Year": "",
-        "ITD": ""
+        "3 Mos": "0.08363750382680649"
+    },
+    {
+        "": "Sharpe Ratio",
+        "YTD": "0.35677432753580696",
+        "3 Mos": "0.6243265284748405"
     }
 ]
