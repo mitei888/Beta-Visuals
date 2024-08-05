@@ -1,16 +1,16 @@
 [
     {
-        "": "Returns",
+        "Total Portfolio": "Returns",
         "YTD": "0.06201957823711801",
         "3 Mos": "0.06525402894859722"
     },
     {
-        "": "Volatility",
+        "Total Portfolio": "Volatility",
         "YTD": "0.11449742776027555",
         "3 Mos": "0.08363750382680649"
     },
     {
-        "": "Sharpe Ratio",
+        "Total Portfolio": "Sharpe Ratio",
         "YTD": "0.35677432753580696",
         "3 Mos": "0.6243265284748405"
     }
