@@ -1,11 +1,11 @@
 [
     {
         "Data": "Gross Portfolio Value",
-        "Value": "186842367.47654915"
+        "Value": "187417230.02223828"
     },
     {
         "Data": "Net Portfolio Value",
-        "Value": "75905474.27864985"
+        "Value": "76164797.69728595"
     },
     {
         "Data": "MAN Value",
@@ -13,14 +13,14 @@
     },
     {
         "Data": "MAN as % of Total NAV",
-        "Value": "0.6608399320926844"
+        "Value": "0.6585899258490832"
     },
     {
         "Data": "Total Portfolio Leverage",
-        "Value": "2.4615137347096825"
+        "Value": "2.460680467728948"
     },
     {
         "Data": "Portfolio Leverage ex MAN",
-        "Value": "1.7592533386775568"
+        "Value": "1.7607753912689916"
     }
 ]
