@@ -8786,5 +8786,31 @@
         "days": "500",
         "Beta + MAN ITD/Ann Return": "0.06124503476364018",
         "Beta Alone ITD/Ann Return": "0.08457855556684257"
+    },
+    {
+        "": "338",
+        "Date": "2024-09-24",
+        "Portfolio NAV": "1157.0086908114708",
+        "Portfolio Return": "0.010533647184132855",
+        "Realized vol": "0.11385742058464413",
+        "Portfolio Net Value": "51475080.23282352",
+        "Portfolio Gross Value": "142592116.2671066",
+        "Portfolio NAV ex MAN": "1188.0720713873413",
+        "Portfolio Return ex MAN": "0.007205571978938563",
+        "Realized vol ex MAN": "0.11060980809476352",
+        "Portfolio Net Value ex MAN": "52948634.71567671",
+        "Portfolio Gross Value ex MAN": "92006819.23099196",
+        "Leverage": "2.7701193591570457",
+        "Leverage ex MAN": "1.7376617872217042",
+        "MAN Value": "50585297.03611464",
+        "Beta+ MAN 252d Vol": "0.11385742058464403",
+        "Beta Alone 252d Vol": "0.1106098080947632",
+        "Beta + MAN ITD Vol": "0.11286695182450479",
+        "Beta Alone ITD Vol": "0.11131974742051336",
+        "Beta Alone NAV": "1.125695364102227",
+        "Beta + MAN NAV": "1.0962628874455185",
+        "days": "501",
+        "Beta + MAN ITD/Ann Return": "0.06925079175352233",
+        "Beta Alone ITD/Ann Return": "0.0900899004723803"
     }
 ]

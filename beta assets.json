@@ -19238,5 +19238,31 @@
         "Gold Rolling 10d Returns": "0.004719126554736397",
         "MAN Index": "0.933055293499609",
         "MAN Rolling 10d Returns": "0.000672825505343662"
+    },
+    {
+        "": "740",
+        "Date": "2024-09-24",
+        "Risk Free": "4.494999885559082",
+        "Leverage": "2.7701193591570457",
+        "Leverage ex MAN": "1.7376617872217042",
+        "Daily Cost of Leverage": "0.00012315068179613922",
+        "Equity Daily %": "0.007857578406666055",
+        "Bonds Daily %": "0.0003681202982370546",
+        "TIPS Daily %": "0.002442151577634055",
+        "Gold Daily %": "0.013969012691610327",
+        "GSCI Daily %": "0.012692132507041931",
+        "MAN Daily %": "0.003043313635995583",
+        "Equity Index": "1.2881494517572365",
+        "Equity Rolling 10d Returns": "0.00491546932263609",
+        "Bonds Index": "0.7903889695457809",
+        "Bonds Rolling 10d Returns": "-0.0012198619521470058",
+        "TIPS Index": "0.9745312670648711",
+        "TIPS Rolling 10d Returns": "0.0007726004517733309",
+        "GSCI Index": "1.3864809120052608",
+        "GSCI Rolling 10d Returns": "0.007265028314583965",
+        "Gold Index": "1.4715345054419313",
+        "Gold Rolling 10d Returns": "0.0056756133161253945",
+        "MAN Index": "0.9358948733974541",
+        "MAN Rolling 10d Returns": "0.0008481272836958924"
     }
 ]

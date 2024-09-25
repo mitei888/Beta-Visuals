@@ -15538,5 +15538,26 @@
         "Portfolio ex MAN Daily %": "0.0006256896729417427",
         "Total US Return": "0.00047503503782525357",
         "Total US Level": "0.9645234255282047"
+    },
+    {
+        "": "740",
+        "Date": "2024-09-24",
+        "Portfolio NAV": "1157.0086908114708",
+        "Portfolio NAV ex MAN": "0.9651892256018644",
+        "Risk Free": "4.494999885559082",
+        "Leverage": "2.7701193591570457",
+        "Leverage ex MAN": "1.7376617872217042",
+        "Daily Cost of Leverage": "0.00012315068179613922",
+        "TIPS Index": "0.9745312670648711",
+        "Gold Index": "1.4715345054419313",
+        "GSCI Index": "1.3864809120052608",
+        "TIPS Index Daily %": "0.002442151577634055",
+        "Gold Index Daily %": "0.013969012691610327",
+        "GSCI Index Daily %": "0.012692132507041931",
+        "US Bond + Equity Daily %": "0.0009125655166848379",
+        "Portfolio Daily %": "0.010533647184132855",
+        "Portfolio ex MAN Daily %": "0.007205571978938563",
+        "Total US Return": "0.005321022277221739",
+        "Total US Level": "0.9696556761623425"
     }
 ]

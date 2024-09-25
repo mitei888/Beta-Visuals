@@ -3092,5 +3092,22 @@
         "New Portfolio NAV ex MAN": "1.0893884172126576",
         "New Adjusted Portfolio NAV": "1.1078210175342802",
         "New Adjusted Portfolio NAV ex MAN": "1.1231400407351162"
+    },
+    {
+        "": "182",
+        "Date": "2024-09-24",
+        "Portfolio NAV": "1157.0086908114708",
+        "Portfolio Net Value": "51475080.23282352",
+        "Portfolio Gross Value": "142592116.2671066",
+        "Portfolio NAV ex MAN": "1188.0720713873413",
+        "Portfolio Net Value ex MAN": "52948634.71567671",
+        "Portfolio Gross Value ex MAN": "92006819.23099196",
+        "adj": "1.1509719639963658",
+        "Adjusted Portfolio NAV": "1331.6845652241425",
+        "Adjusted Portfolio NAV ex MAN": "1367.4376453739187",
+        "New Portfolio NAV": "1.085848465170407",
+        "New Portfolio NAV ex MAN": "1.0972380838659053",
+        "New Adjusted Portfolio NAV": "1.1229070502041378",
+        "New Adjusted Portfolio NAV ex MAN": "1.1346853816588007"
     }
 ]
