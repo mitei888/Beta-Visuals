@@ -13,14 +13,14 @@
     },
     {
         "252d Vol": "Date of Last Hedge",
-        "CS/UBS": "2023-12-22"
+        "CS/UBS": "2024-10-03"
     },
     {
         "252d Vol": "Hedged Vol",
-        "CS/UBS": "0.123778386482314"
+        "CS/UBS": "0.114"
     },
     {
         "252d Vol": "Hedged Vol ex MAN",
-        "CS/UBS": "0.129789333983457"
+        "CS/UBS": "0.108"
     }
 ]
