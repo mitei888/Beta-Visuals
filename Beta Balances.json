@@ -1,26 +1,26 @@
 [
     {
         "Data": "Gross Portfolio Value",
-        "Value": "201419684.33092892"
+        "Value": "200966584.16173428"
     },
     {
         "Data": "Net Portfolio Value",
-        "Value": "73215638.44399597"
+        "Value": "72749145.99372375"
     },
     {
         "Data": "Overlay Value",
-        "Value": "24299585.87392768"
+        "Value": "24338355.61630037"
     },
     {
         "Data": "Overlay as % of Total NAV",
-        "Value": "0.33189065055431966"
+        "Value": "0.3345517707987954"
     },
     {
         "Data": "Total Portfolio Leverage",
-        "Value": "2.7510472982489755"
+        "Value": "2.7624597019884214"
     },
     {
         "Data": "Portfolio Leverage ex Overlay",
-        "Value": "2.017389088636516"
+        "Value": "2.024504871906694"
     }
 ]
