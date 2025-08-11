@@ -21832,5 +21832,23 @@
         "Total US Return": "-0.002802775786905227",
         "Total US Vol": "0.1267772992451406",
         "Total US Level": "1.1255522952421773"
+    },
+    {
+        "": "1213",
+        "Date": "2025-08-01",
+        "Beta Alone Portfolio NAV": "1.2413814572206485",
+        "Beta Alone Portfolio Leverage": "1.9860181983891965",
+        "TIPS Index": "1.0938320659496212",
+        "Gold Index": "1.5876759422773505",
+        "GSCI Index": "2.109557071802157",
+        "Days": "1.0",
+        "TIPS Index Daily %": "0.006987765697336945",
+        "Gold Index Daily %": "0.015288905520177032",
+        "GSCI Index Daily %": "-0.015184674160214073",
+        "US Bond + Equity Daily %": "0.0007716805730224596",
+        "Beta Alone Portfolio Daily %": "0.008361846701235631",
+        "Total US Return": "0.008888667700135787",
+        "Total US Vol": "0.1270176373051649",
+        "Total US Level": "1.1355569555737102"
     }
 ]
